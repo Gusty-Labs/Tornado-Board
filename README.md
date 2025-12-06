@@ -18,3 +18,4 @@ Tornado is a fully open-source IMU board built for FRC
 
 ## Resources
 * [Schematic](Images/Schematic.pdf)
+* [SWD Breakout Board](https://github.com/Gusty-Labs/SWD-Breakout)
